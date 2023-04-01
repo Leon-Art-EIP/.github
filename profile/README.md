@@ -1,6 +1,6 @@
 # Leon'Art
 
-![Leon'Art Big Logo](ressources/big_logo.png)
+![Leon'Art Big Logo]([ressources/big_logo.png](https://github.com/Leon-Art-EIP/RESSOURCES/blob/main/ressources/big_logo.png))
 
 Leon'Art is a web and mobile application that connects artists with art enthusiasts and facilitates the buying and selling of art. Unlike other online art marketplaces, Leon'Art is also a social network that promotes the discovery of emerging artists.
 

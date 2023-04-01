@@ -38,4 +38,4 @@ We welcome contributions from everyone. If you're interested in contributing, pl
 
 This project is licensed under the [MIT License](LICENSE). 
 
-![Leon'Art Logo with Catchphrase](ressources/logo_with_phrase.png)
+![Leon'Art Logo with Catchphrase](https://github.com/Leon-Art-EIP/RESSOURCES/blob/main/ressources/logo_with_phrase.png)

@@ -1,5 +1,7 @@
 # Leon'Art
 
+![Leon'Art Big Logo](.github/ressources/big_logo.png)
+
 Leon'Art is a web and mobile application that connects artists with art enthusiasts and facilitates the buying and selling of art. Unlike other online art marketplaces, Leon'Art is also a social network that promotes the discovery of emerging artists.
 
 ## Epitech Innovative Project (EIP)
@@ -35,3 +37,5 @@ We welcome contributions from everyone. If you're interested in contributing, pl
 ## License
 
 This project is licensed under the [MIT License](LICENSE). 
+
+![Leon'Art Logo with Catchphrase](.github/ressources/logo_with_phrase.png)

@@ -39,3 +39,15 @@ We welcome contributions from everyone. If you're interested in contributing, pl
 This project is licensed under the [MIT License](LICENSE). 
 
 ![Leon'Art Logo with Catchphrase](https://github.com/Leon-Art-EIP/RESSOURCES/blob/main/ressources/logo_with_phrase.png)
+
+## emails
+
+You can contact us through those emails :
+
+Damien Demontis (Project Manager / Dev Back) damien.demontis@epitech.eu
+Cédric Ulrich (Dev Back & DevOps) cedric.ulrich@epitech.eu
+Guillaume Paris (Dev Web) guillaume1.paris@epitech.eu
+Marius Nowak (Dev Web) marius.nowak@epitech.eu
+Evan Koehler (Dev Mobile) evan.koehler@epitech.eu
+Marine Weber (Dev Mobile) marine.weber@epitech.eu
+Vivant Garrigues (Dev Mobile) vivant.garrigues@epitech.eu
